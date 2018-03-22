@@ -929,7 +929,7 @@ address>span:last-child{
     font-size:14px; /* 글자 크기 */
     color:#999;  /* 글자 색상 */
     letter-spacing: -1; /* 글자작안 간격 -1 */
-    
+    line-height: 21px;
 
 
 }
